@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NYCFinance", "NYCFinance.csproj", "{595B290D-4ACC-4C29-8FA1-3FF13636BABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScraperLibrary", "..\WebScraperLibrary\WebScraperLibrary.csproj", "{31FC573E-0CD8-49D6-9BE3-BB8698C92936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{595B290D-4ACC-4C29-8FA1-3FF13636BABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595B290D-4ACC-4C29-8FA1-3FF13636BABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595B290D-4ACC-4C29-8FA1-3FF13636BABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595B290D-4ACC-4C29-8FA1-3FF13636BABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FC573E-0CD8-49D6-9BE3-BB8698C92936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FC573E-0CD8-49D6-9BE3-BB8698C92936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FC573E-0CD8-49D6-9BE3-BB8698C92936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FC573E-0CD8-49D6-9BE3-BB8698C92936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13AF5B80-5FD2-4ECE-945A-FF7FB5BE8D95}
+	EndGlobalSection
+EndGlobal
